@@ -1,0 +1,41 @@
+{
+    "add_hover_pressed": true,
+    "add_is_visible": true,
+    "autobinding_value": "text",
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 200
+    },
+    "display": "FontAwesome",
+    "fields": {
+        "AAD": {
+            "caption": "icon",
+            "editor": "DynamicValue",
+            "name": "icon",
+            "optional": false,
+            "rank": 0,
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "color",
+            "doc": "like #fff",
+            "editor": "StaticText",
+            "in_style": true,
+            "name": "color",
+            "optional": true,
+            "rank": 1
+        }
+    },
+    "icon": "ion-wand",
+    "property_applications": {
+        "Background": false,
+        "Border": false,
+        "BoxShadow": false,
+        "Font": false,
+        "MinWidth": false,
+        "Padding": false,
+        "resizable": true
+    },
+    "support_autobinding": true
+}

@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "productivity"
+    },
+    "demo_page": "https://bubble.io/page?name=index&id=fontawesome5&tab=tabs-1",
+    "description": "Plugin for FontAwesome with support for pro icons. Sizing of the icons is done automaticly based on size of element.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1601464537520x333813453710250200/Screenshot%202020-09-30%20at%2012.59.38.png",
+    "license": "open_source",
+    "name": "FontAwesome (Pro)"
+}
